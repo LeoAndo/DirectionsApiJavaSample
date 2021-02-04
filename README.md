@@ -13,3 +13,6 @@
 ```
 
 3. Build and install the application
+
+## Kotlin sample
+https://github.com/LeoAndo/DirectionsApiKotlinSample
